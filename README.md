@@ -41,7 +41,7 @@ The workflow integrates:
 | Slope | ALOS DEM |
 | Rainfall | CHIRPS |
 | Geology | Geological Survey of Kenya |
-| Soil | ISRIC SoilGrids |
+| Soil | iSDA SoilGrids |
 | Land Use/Land Cover | ESA WorldCover |
 | Distance to Roads | OpenStreetMap |
 | Distance to Streams | Derived from DEM |
