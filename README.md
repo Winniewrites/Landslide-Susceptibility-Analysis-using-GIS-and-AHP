@@ -71,7 +71,8 @@ docs/
 
 ## Results
 
-*(Insert figures here)*
+<img width="637" height="900" alt="image" src="https://github.com/user-attachments/assets/a1da4ade-5197-46f3-aee2-093188084209" />
+
 
 ### Study Area
 
